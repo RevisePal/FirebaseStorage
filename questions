@@ -12,6 +12,31 @@
     "createdAt": "2021-10-12T12:00:12.089Z",
     "__v": 0
   },
+{
+  "isdeleted": false,
+  "_id": "76f0a2c4-869d-4c34-9862-05144db8d09b",
+  "bubble_id": {
+    "isdeleted": false,
+    "_id": "618bbab3521f924182ae9d75",
+    "name": "Place Values with Decimals and Large Numbers",
+    "topic_id": "618bb7eb521f924182ae9d72",
+    "level": 1,
+    "image": "/images/59a7cbc58a314a6329517394d6717e5c.jpg",
+    "order": 48,
+    "createdAt": "2021-11-10T12:27:31.790Z",
+    "__v": 0
+  },
+  "question": "Write the number fifty-two thousand, three hundred and ninety-one point four eight six in standard form",
+  "answer": "[52091.486]",
+  "explanation": "",
+  "order": 200,
+  "type": "2",
+  "image": "/images/3082bb3ecc3dc20ba3e6dd33c578de67.png",
+  "createdAt": "2024-07-10T18:39:39.968Z",
+  "__v": 0,
+  "calculator": null,
+  "checkGPT": null
+},
   "question": "The energy required to change the state of 1 kg of a substance without changing its temperature is called the specific latent heat. When a substance changes from liquid to gas, the specific latent heat is known as the specific latent heat of ____.",
   "answer": "[vaporization, vaporisation]",
   "explanation": "",
