@@ -25,6 +25,31 @@
 },
 {
   "isdeleted": false,
+  "_id": "1bec0d30-ccd4-41c4-8e87-1e3289dda442",
+  "bubble_id": {
+    "isdeleted": false,
+    "_id": "650c850c8f677b08ee60ee33",
+    "name": "Cells",
+    "topic_id": "60cc8010dfd6220cf6dd2e41",
+    "level": 1,
+    "image": "/images/982a9e4bdde6c7190df9a6e68e60c0f8.png",
+    "order": 10,
+    "createdAt": "2023-09-21T18:01:48.458Z",
+    "__v": 0
+  },
+  "question": "Where is the genetic material found in a cell?",
+  "answer": "nucleus",
+  "explanation": "",
+  "order": 200,
+  "type": "2",
+  "image": "/images/344598b91ee8df2de259f25ae1e8b705.png",
+  "createdAt": "2024-07-10T10:59:48.950Z",
+  "__v": 0,
+  "calculator": null,
+  "checkGPT": null
+}
+{
+  "isdeleted": false,
   "_id": "921d7619-f6dc-4cfb-941e-af8b568a6e81",
   "bubble_id": {
     "isdeleted": false,
