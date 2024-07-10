@@ -3,9 +3,9 @@
   "_id": "d1c5c8f5-e1ae-4b93-9c61-b62931910d4f",
   "bubble_id": {
     "isdeleted": false,
-    "_id": "654d644393b4fa05089f7f4b",
+    "_id": "616578cc521f924182ae9d12",
     "name": "Specific Latent Heat",
-    "topic_id": "6530523c65844920d9fc4c48",
+    "topic_id": "61549189521f924182ae9c95",
     "level": 2,
     "image": "/images/3f16e2f689d90f2fea89f1dec68546e9.jpg",
     "order": 675,
@@ -74,8 +74,9 @@
   "checkGPT": null
 },
 {
+  "options": [],
   "isdeleted": false,
-  "_id": "500062d3-9490-4560-96cc-03deb64b259d",
+  "_id": "61a8c60a521f924182ae9dc3",
   "bubble_id": {
     "isdeleted": false,
     "_id": "61a8bdb4521f924182ae9db9",
