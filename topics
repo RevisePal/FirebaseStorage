@@ -1,6 +1,231 @@
+
 {
   "data": {
     "topics": [
+  {
+    "isdeleted": false,
+    "_id": "5dc7d400-4f80-4b0a-acea-e02d1798eb0c",
+    "name": "Fundamentals of Algorithms",
+    "subject_id": {
+      "isdeleted": false,
+      "_id": "980a17f0-0d9f-44cd-968d-3e32ec61f585",
+      "name": "Computer Science",
+      "board_id": "60b1e663dd37f5c302b422d4",
+      "order": "-6",
+      "image": "",
+      "createdAt": "2024-08-28T11:18:05.289Z",
+      "__v": 0
+    },
+    "board_id": {
+      "isdeleted": false,
+      "_id": "60b1e663dd37f5c302b422d4",
+      "name": "AQA",
+      "order": 1,
+      "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+      "createdAt": "2021-05-29T06:59:47.702Z",
+      "__v": 0
+  },
+    "order": 0,
+    "image": "/images/f81f3f9f654f68b4c3887fb44791546a.jpg",
+    "createdAt": "2024-08-29T11:43:43.805Z",
+    "__v": 0
+  },
+  {
+    "isdeleted": false,
+    "_id": "de33a045-50ed-435a-9c3b-e1afd38da200",
+    "name": "Programming",
+    "subject_id": {
+      "isdeleted": false,
+      "_id": "980a17f0-0d9f-44cd-968d-3e32ec61f585",
+      "name": "Computer Science",
+      "board_id": "60b1e663dd37f5c302b422d4",
+      "order": "-6",
+      "image": "",
+      "createdAt": "2024-08-28T11:18:05.289Z",
+      "__v": 0
+    },
+    "board_id": {
+      "isdeleted": false,
+      "_id": "60b1e663dd37f5c302b422d4",
+      "name": "AQA",
+      "order": 1,
+      "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+      "createdAt": "2021-05-29T06:59:47.702Z",
+      "__v": 0
+    },
+    "order": 0,
+    "image": "/images/83bd48894ec8fa57c3e96284e0912197.jpg",
+    "createdAt": "2024-08-29T11:43:58.570Z",
+    "__v": 0
+  },
+  {
+    "isdeleted": false,
+    "_id": "dc416469-be44-41d1-bbcf-b1818e4e6856",
+    "name": "Data Representation",
+    "subject_id": {
+      "isdeleted": false,
+      "_id": "980a17f0-0d9f-44cd-968d-3e32ec61f585",
+      "name": "Computer Science",
+      "board_id": "60b1e663dd37f5c302b422d4",
+      "order": "-6",
+      "image": "",
+      "createdAt": "2024-08-28T11:18:05.289Z",
+      "__v": 0
+    },
+    "board_id": {
+      "isdeleted": false,
+      "_id": "60b1e663dd37f5c302b422d4",
+      "name": "AQA",
+      "order": 1,
+      "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+      "createdAt": "2021-05-29T06:59:47.702Z",
+      "__v": 0
+    },
+    "order": 0,
+    "image": "/images/9f7b99cabfc2563c778e45b419373d5e.jpg",
+    "createdAt": "2024-08-29T11:44:24.369Z",
+    "__v": 0
+  },
+  {
+    "isdeleted": false,
+    "_id": "1aa6451a-5c35-4d95-94a7-2227399d0a0e",
+    "name": "Computer Systems",
+    "subject_id": {
+      "isdeleted": false,
+      "_id": "980a17f0-0d9f-44cd-968d-3e32ec61f585",
+      "name": "Computer Science",
+      "board_id": "60b1e663dd37f5c302b422d4",
+      "order": "-6",
+      "image": "",
+      "createdAt": "2024-08-28T11:18:05.289Z",
+      "__v": 0
+    },
+    "board_id": {
+      "isdeleted": false,
+      "_id": "60b1e663dd37f5c302b422d4",
+      "name": "AQA",
+      "order": 1,
+      "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+      "createdAt": "2021-05-29T06:59:47.702Z",
+      "__v": 0
+    },
+     "order": 0,
+    "image": "/images/bc1e661429d5c6930f7b3d99e6ff3529.jpg",
+    "createdAt": "2024-08-29T12:17:26.139Z",
+    "__v": 0
+  },
+  {
+    "isdeleted": false,
+    "_id": "a00d2b77-3eda-4deb-83de-04f436cc7da9",
+    "name": "Networks",
+    "subject_id": {
+      "isdeleted": false,
+      "_id": "980a17f0-0d9f-44cd-968d-3e32ec61f585",
+      "name": "Computer Science",
+      "board_id": "60b1e663dd37f5c302b422d4",
+      "order": "-6",
+      "image": "",
+      "createdAt": "2024-08-28T11:18:05.289Z",
+      "__v": 0
+    },
+    "board_id": {
+      "isdeleted": false,
+      "_id": "60b1e663dd37f5c302b422d4",
+      "name": "AQA",
+      "order": 1,
+      "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+      "createdAt": "2021-05-29T06:59:47.702Z",
+      "__v": 0
+    },
+     "order": 0,
+    "image": "/images/197489fbca65063518d7cc5bdce4ff7f.jpg",
+    "createdAt": "2024-08-29T12:01:21.867Z",
+    "__v": 0
+  },
+  {
+    "isdeleted": false,
+    "_id": "d9f6eeb1-a778-435b-9656-192025111cdf",
+    "name": "Cyber Security",
+    "subject_id": {
+      "isdeleted": false,
+      "_id": "980a17f0-0d9f-44cd-968d-3e32ec61f585",
+      "name": "Computer Science",
+      "board_id": "60b1e663dd37f5c302b422d4",
+      "order": "-6",
+      "image": "",
+      "createdAt": "2024-08-28T11:18:05.289Z",
+      "__v": 0
+    },
+    "board_id": {
+      "isdeleted": false,
+      "_id": "60b1e663dd37f5c302b422d4",
+      "name": "AQA",
+      "order": 1,
+      "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+      "createdAt": "2021-05-29T06:59:47.702Z",
+      "__v": 0
+    },
+    "order": 0,
+    "image": "/images/461d9298984499a90057a89453a0fd3b.jpg",
+    "createdAt": "2024-08-29T12:01:34.798Z",
+    "__v": 0
+  },
+  {
+    "isdeleted": false,
+    "_id": "8607b1a9-366f-4609-827f-397310156bc1",
+    "name": "Ethical, Legal, and Environmental Impacts",
+    "subject_id": {
+      "isdeleted": false,
+      "_id": "980a17f0-0d9f-44cd-968d-3e32ec61f585",
+      "name": "Computer Science",
+      "board_id": "60b1e663dd37f5c302b422d4",
+      "order": "-6",
+      "image": "",
+      "createdAt": "2024-08-28T11:18:05.289Z",
+      "__v": 0
+    },
+    "board_id": {
+      "isdeleted": false,
+      "_id": "60b1e663dd37f5c302b422d4",
+      "name": "AQA",
+      "order": 1,
+      "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+      "createdAt": "2021-05-29T06:59:47.702Z",
+      "__v": 0
+    },
+    "order": 0,
+    "image": "/images/b0607c697e16302da3cc59a285e8340a.jpg",
+    "createdAt": "2024-08-29T12:01:50.246Z",
+    "__v": 0
+  },
+  {
+    "isdeleted": false,
+    "_id": "9b699c7f-dee3-4c94-b7a3-adc592153714",
+    "name": "Relational Databases and SQL",
+    "subject_id": {
+      "isdeleted": false,
+      "_id": "980a17f0-0d9f-44cd-968d-3e32ec61f585",
+      "name": "Computer Science",
+      "board_id": "60b1e663dd37f5c302b422d4",
+      "order": "-6",
+      "image": "",
+      "createdAt": "2024-08-28T11:18:05.289Z",
+      "__v": 0
+    },
+    "board_id": {
+      "isdeleted": false,
+      "_id": "60b1e663dd37f5c302b422d4",
+      "name": "AQA",
+      "order": 1,
+      "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+      "createdAt": "2021-05-29T06:59:47.702Z",
+      "__v": 0
+    },
+    "order": 0,
+    "image": "/images/7fd3e20dc0779ac7b79edbc79655ddc4.jpg",
+    "createdAt": "2024-08-29T12:02:07.648Z",
+    "__v": 0
+  },
       {
         "isdeleted": false,
         "_id": "6530505765844920d9fc491b",
@@ -645,6 +870,34 @@
         "createdAt": "2024-07-18T14:06:05.315Z",
         "__v": 0
       },
+      {
+  "isdeleted": false,
+  "_id": "62a91912-eb9a-485a-8c70-4cedb37642df",
+  "name": "Socio-Cultural Influences",
+  "subject_id": {
+    "isdeleted": false,
+    "_id": "64bbafcad64a30072bbf612a",
+    "name": "Physical Education",
+    "board_id": "",
+    "order": -5,
+    "image": "/images/2bdf34a774300c5d57f2cb89db7d1d29.png",
+    "createdAt": "2023-07-22T10:30:34.716Z",
+    "__v": 0
+  },
+  "board_id": {
+    "isdeleted": false,
+    "_id": "60b1e663dd37f5c302b422d4",
+    "name": "AQA",
+    "order": 1,
+    "image": "/images/de3df74d54f6ba8515de36df58bdabd8.jpg",
+    "createdAt": "2021-05-29T06:59:47.702Z",
+    "__v": 0
+  },
+  "order": "46",
+  "image": "/images/2239f2ca3374c24c14b5be60751036bb.jpg",
+  "createdAt": "2024-08-08T10:27:12.578Z",
+  "__v": 0
+},
       {
         "isdeleted": false,
         "_id": "63fd218a410690059ed2c9a4",
