@@ -63,6 +63,62 @@
         "calculator": "true",
         "checkGTP": null
       },
+{
+        "isdeleted": false,
+        "_id": "6afc49b5-0be6-492f-ba3c-0ef97667c4bf",
+        "bubble_id": {
+          "isdeleted": false,
+          "_id": "785b8d8b-8e39-4fa0-a07b-c8107ce1c112",
+          "name": "Simple SQL Commands",
+          "topic_id": "9b699c7f-dee3-4c94-b7a3-adc592153714",
+          "level": "1",
+          "image": "/images/03a39bae51dfc52ae7d32bf51a120d1c.png",
+          "order": "0",
+          "createdAt": "2024-08-29T18:40:08.459Z",
+          "__v": 0
+        },
+        "question": "Which SQL command is necessary to add a new record into a table?",
+        "answer": "*",
+        "explanation": "",
+        "order": 200,
+        "type": "2",
+        "image": "",
+        "createdAt": "2024-09-04T15:35:29.399Z",
+        "__v": 0,
+        "calculator": null,
+        "checkGTP": null
+      },
+      {
+"options": [
+          "INSERT INTO",
+          "DELETE FROM",
+          "SELECT FROM",
+          "UPDATE SET"
+        ],
+        "isdeleted": false,
+        "_id": "46213475-9ce7-4cba-98f7-5acefb7af316",
+        "bubble_id": {
+          "isdeleted": false,
+          "_id": "785b8d8b-8e39-4fa0-a07b-c8107ce1c112",
+          "name": "Simple SQL Commands",
+          "topic_id": "9b699c7f-dee3-4c94-b7a3-adc592153714",
+          "level": "1",
+          "image": "/images/03a39bae51dfc52ae7d32bf51a120d1c.png",
+          "order": "0",
+          "createdAt": "2024-08-29T18:40:08.459Z",
+          "__v": 0
+        },
+        "question": "What SQL command is used to remove all records from a table?",
+        "answer": "INSERT INTO",
+        "explanation": "",
+        "order": 200,
+        "type": "2",
+        "image": "",
+        "createdAt": "2024-09-04T15:35:37.515Z",
+        "__v": 0,
+        "calculator": null,
+        "checkGTP": null
+      },
       {
         "options": [
           "1",
