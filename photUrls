@@ -1,5 +1,5 @@
 {
-        alteri: [
+        "alteri": [
             "https://www.savastastudio.it/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-01-at-13.16.43.jpeg",
             "https://www.savastastudio.it/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-01-at-13.16.43-1.jpeg",
             "https://www.savastastudio.it/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-01-at-13.16.42.jpeg",
@@ -200,5 +200,5 @@ bottega: [
 "https://www.savastastudio.it/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-01-at-13.27.19-1.jpeg",
 "https://www.savastastudio.it/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-01-at-13.27.19.jpeg",
 "https://www.savastastudio.it/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-01-at-13.27.20.jpeg",
-       ],
-    };
+       ]
+    }
